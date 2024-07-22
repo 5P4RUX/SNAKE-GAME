@@ -13,28 +13,28 @@ Bu proje, klasik yılan oyununu Python ve Tkinter kullanarak oluşturan bir uygu
 **Kurulum**
 • Proje dosyasını klonlayın veya indirin:
 
-`git clone https://github.com/Sparux-666/PyGameSnake.git`
-`cd PyGameSnake`
+`git clone https://github.com/Sparux-666/SNAKE-GAME.git`
+`cd SNAKE-GAME`
 
 Termux, macOS ve Kali Linux için Kurulumu için Aşağıdaki adımları kullanarak oyunu çalıştırabilirsiniz.
 
 **Termux**
 Python'u yükleyin: pkg install pythonTkinter'i yükleyin:Termux'ta tkinter'ı doğrudan yüklemek mümkün değildir. Bu yüzden `termux-x11` kullanarak GUI uygulamalarını çalıştırmanız gerekebilir.
 `pkg install termux-x11` Proje klasörüne gidin ve oyunu çalıştırın:
-`cd PyGameSnake`
+`cd SNAKE-GAME`
 `python SnakeGame666.py`
 
 **macOS**
 
 Python'u ve tkinter'ı yükleyin:macOS genellikle Python ve tkinter ile birlikte gelir. Ancak, Python'un en son sürümünü yüklemek için Homebrew kullanabilirsiniz: 
-`brew install python` Proje klasörüne gidin ve oyunu çalıştırın: `cd PyGameSnake`
+`brew install python` Proje klasörüne gidin ve oyunu çalıştırın: `cd SNAKE-GAME`
 `python3 SnakeGame666.py`
 
 **Kali Linux**
 
 Python'u ve tkinter'ı yükleyin:
 `sudo apt update`
-`sudo apt install python3` python3-tkProje klasörüne gidin ve oyunu çalıştırın: `cd PyGameSnake`
+`sudo apt install python3` python3-tkProje klasörüne gidin ve oyunu çalıştırın: `cd SNAKE-GAME`
 `python3 SnakeGame666.py`
 
 **Kullanım**
